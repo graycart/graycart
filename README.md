@@ -1,11 +1,10 @@
-# Graycart
+﻿# Graycart
 
 Family umbrella. Clone with submodules, or clone any child on its own.
 
 | Repo | What |
 |------|------|
 | [graycart-gb](https://github.com/graycart/graycart-gb) | DMG + CGB emulator (`graycart` crate/binary) |
-| [graycart-tests](https://github.com/graycart/graycart-tests) | External conformance manifests / fetch pins |
 | [graycart-gba](https://github.com/graycart/graycart-gba) | GBA emulator (placeholder) |
 
 ```bash
@@ -14,4 +13,4 @@ git clone --recurse-submodules https://github.com/graycart/graycart.git
 
 Each emulator is independently `cargo test`-able. This repo is **not** a Cargo workspace.
 
-MIT � Copyright (c) 2026 Graycart.
+MIT — Copyright (c) 2026 Graycart.

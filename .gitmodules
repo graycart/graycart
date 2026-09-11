@@ -1,9 +1,6 @@
 [submodule "graycart-gb"]
 	path = graycart-gb
 	url = https://github.com/graycart/graycart-gb.git
-[submodule "graycart-tests"]
-	path = graycart-tests
-	url = https://github.com/graycart/graycart-tests.git
 [submodule "graycart-gba"]
 	path = graycart-gba
 	url = https://github.com/graycart/graycart-gba.git
