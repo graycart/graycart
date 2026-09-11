@@ -1,4 +1,4 @@
-﻿# Graycart
+# Graycart
 
 Family umbrella. Clone with submodules, or clone any child on its own.
 
