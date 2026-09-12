@@ -13,3 +13,6 @@
 [submodule "graycart-n64"]
 	path = graycart-n64
 	url = https://github.com/graycart/graycart-n64.git
+[submodule "graycart-linux"]
+	path = graycart-linux
+	url = https://github.com/graycart/graycart-linux.git

@@ -9,6 +9,7 @@ Family umbrella. Clone with submodules, or clone any child on its own.
 | [graycart-nes](https://github.com/graycart/graycart-nes) | NES emulator (placeholder) |
 | [graycart-snes](https://github.com/graycart/graycart-snes) | SNES emulator (placeholder) |
 | [graycart-n64](https://github.com/graycart/graycart-n64) | N64 emulator (placeholder) |
+| [graycart-linux](https://github.com/graycart/graycart-linux) | Omarchy-derived; Graycart-stripped host OS |
 
 ```bash
 git clone --recurse-submodules https://github.com/graycart/graycart.git
