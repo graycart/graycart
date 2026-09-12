@@ -4,3 +4,12 @@
 [submodule "graycart-gba"]
 	path = graycart-gba
 	url = https://github.com/graycart/graycart-gba.git
+[submodule "graycart-nes"]
+	path = graycart-nes
+	url = https://github.com/graycart/graycart-nes.git
+[submodule "graycart-snes"]
+	path = graycart-snes
+	url = https://github.com/graycart/graycart-snes.git
+[submodule "graycart-n64"]
+	path = graycart-n64
+	url = https://github.com/graycart/graycart-n64.git
